@@ -1,8 +1,8 @@
 # AceBot
 
-Robot de combate para la competición de la Oshwdem 2019
+Robot de combate para la competición de la Oshwdem 2023 con arma actualizada y hardware revisado.
 
-![AceBot](./images/AceBot_finish.jpg "AceBot")
+![AceBot](./images/AceBot2023.jpeg "AceBot")
 
 ## Hardware
 - Arduino Nano
@@ -11,7 +11,7 @@ Robot de combate para la competición de la Oshwdem 2019
 - LiPo 3S ~500 mAh
 - Módulo bluetooth HC-05
 - Giroscopio GY-91 MPU9250 BMP280
-- Cuchillas de fresa para desintegrar al rival
+- chapa de metal a 45º recortada a medida
 - Chasis impreso en PLA con sección de tubo de pvc
 
 ![AceBot Chasis](./images/AceBot_3d_model.jpg "AceBot - Chasis")
